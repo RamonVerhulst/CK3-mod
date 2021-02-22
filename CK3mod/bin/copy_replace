@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+from CK3mod.copy_replace import args, main
+
+if __name__ == '__main__':
+    main(*args())
