@@ -16,8 +16,7 @@ python3 -m unittest
 
 ## Usage
 
-For now, there is only one script, which can be invoked from the command line with:
+You can invoke the scripts from the command line:
 
-```shell
-copy_replace
-```
+- *copy_replace*
+- *delete_2*
