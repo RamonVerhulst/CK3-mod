@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+from CK3mod.delete_2 import args, main
+
+if __name__ == '__main__':
+    main(*args())
